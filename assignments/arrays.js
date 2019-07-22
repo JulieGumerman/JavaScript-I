@@ -155,5 +155,7 @@ for (let i = 0; i < inventory.length; i++) {
 }
 console.log(BMWAndAudi);
 
+                //.map && .filter
+
 
 
